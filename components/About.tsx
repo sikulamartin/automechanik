@@ -44,7 +44,7 @@ const About: React.FC = () => {
             <div className="relative rounded-lg overflow-hidden shadow-2xl">
               <div className="absolute inset-0 bg-primary/10 hover:bg-transparent transition-colors duration-500 z-10"></div>
               <img 
-                src="https://www.autotrainingcentre.com/wp-content/uploads/2015/09/Top-5-Most-Common-Repairs-Youll-Encounter-in-an-Auto-Repair-Career.jpg" 
+                src="https://picsum.photos/id/446/800/600?grayscale" 
                 alt="Mechanik v dílně" 
                 className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-700"
               />
